@@ -22,10 +22,9 @@ package com.plugin.increment.object;
 import java.io.Serializable;
 
 /**
- * Description:
- *              step for sequence increment
- * @author pudongping
- * @version 1.0.1
+ * Description:step for sequence increment
+ * @author dennisit@163.com
+ * @version 1.0
  */
 public class IncrementStep implements Serializable {
 

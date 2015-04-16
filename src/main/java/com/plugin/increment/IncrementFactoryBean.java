@@ -28,9 +28,8 @@ import javax.sql.DataSource;
 
 /**
  * Description:
- *
- * @author pudongping
- * @version 1.0.1
+ * @author dennisit@163.com
+ * @version 1.0
  */
 public class IncrementFactoryBean implements FactoryBean{
 
